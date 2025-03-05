@@ -3,3 +3,4 @@ Helloi!
 Hi!
 
 Commit for merge
+Commit for merge2
